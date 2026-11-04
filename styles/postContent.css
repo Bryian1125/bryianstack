@@ -1,0 +1,42 @@
+.postContentSection {
+    display: flex;
+    flex-direction: column;
+
+    width: 80%;
+    margin-top: 40px;
+
+    justify-content: center;
+
+    gap: 10px;
+}
+
+.postContentHeader {
+    display: flex;
+    flex-direction: horizontal;
+
+    align-items: center;
+
+    height: 7vh;
+    margin: 0;
+    padding: 10px;
+
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.contentTab {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    height: auto;
+
+    padding: 10px;
+
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.contentTabHeader {
+    
+}
