@@ -1,0 +1,6 @@
+### Svelte ###
+# SvelteKit internal generated types and build directory
+.svelte-kit/
+
+# SvelteKit production build output
+build/
